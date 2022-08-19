@@ -3,6 +3,7 @@
   <head>
     <title>{{ title }}</title>
     <link rel="stylesheet" type="text/css" href="/assets/main.css" />
+    <link rel="icon" href="/img/favicon.png">
     {%- if preloads -%}
      {% for preload in preloads %}
        <link rel="preload" as="{{ preload.as }}" type="{{ preload.type }}" href="{{ preload.href }}" {% if preload.crossorigin %}crossorigin{% endif %}>
