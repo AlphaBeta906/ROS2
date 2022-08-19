@@ -1,0 +1,20 @@
+<nav class="flex items-center justify-between flex-wrap px-5 py-3 border-b">
+  <a href="/" class="tracking-tight">
+    <img src="/img/Solemanium.svg" width=50px class="rounded-md hover:shadow-lg transition-all ease-in-out" />
+  </a>
+
+  {% set navPages = collections.all | eleventyNavigation %}
+  <ul>
+    {% for entry in navPages %}
+      <li class="inline">
+        <a
+         href="{{ entry.url }}"
+         class="uppercase text-sm py-1 px-2 rounded mr-4 inline-block
+         {{'bg-black text-white' if entry.url in page.url
+         else 'text-gray-600 hover:text-gray-900 hover:bg-slate-200 hover:shadow-lg transition-all ease-in-out '}}">
+         {{ entry.title }}
+       </a>
+      </li>
+    {% endfor %}
+ </ul>
+</nav>

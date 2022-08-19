@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>{{ title }}</title>
+    <link rel="stylesheet" type="text/css" href="/assets/main.css" />
+    {%- if preloads -%}
+     {% for preload in preloads %}
+       <link rel="preload" as="{{ preload.as }}" type="{{ preload.type }}" href="{{ preload.href }}" {% if preload.crossorigin %}crossorigin{% endif %}>
+     {%- endfor -%}
+    {%- endif -%}
+  </head>
+  <body>
+    {% include "../components/navigation.njk" %}
+    <main class="p-12">
+      <h1 class="text-3xl mb-8">{{title}}</h1>
+      {{ content | safe }}
+    </main>
+    <script src="/assets/main.js"></script>
+  </body>
+</html>

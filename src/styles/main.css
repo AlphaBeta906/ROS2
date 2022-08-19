@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    h1 {
+        @apply text-3xl font-extrabold text-center
+    }
+    h2 {
+        @apply text-2xl font-bold p-5 text-center
+    }
+    h3 {
+        @apply text-xl font-bold p-5 text-center
+    }
+    h4 {
+        @apply text-lg font-bold p-5 text-center
+    }
+    h5 {
+        @apply text-base
+    }
+    h6 {
+        @apply text-sm
+    }
+    blockquote {
+        @apply mx-10
+    }
+    ol {
+        @apply px-5
+    }
+}
+
+p {
+    margin: 1rem auto;
+}
+
+ol.numeral {
+    counter-reset: decimal;
+}
+
+ol.alpha {
+    counter-reset: lower-alpha;
+}
+
+ol li {
+    list-style: none;
+    position: relative;
+    padding: 3px;
+}
+
+ol.numeral > li:before {
+    counter-increment: decimal;
+    content:"("counter(decimal, decimal)")‌‌ ‌‌ ";
+    font-style: italic;
+}
+
+ol.alpha > li:before {
+    counter-increment: lower-alpha;
+    content:"("counter(lower-alpha, lower-alpha)")‌‌ ‌‌ ";
+    font-style: italic;
+}
