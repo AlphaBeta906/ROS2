@@ -2,8 +2,14 @@
 <html lang="en">
   <head>
     <title>{{ title }}</title>
-    <link rel="stylesheet" type="text/css" href="/assets/main.css" />
+    <link rel="stylesheet" href="{{ '/assets/styles/main.css' | url }}">
     <link rel="icon" href="/img/favicon.png">
+    <link
+      rel="preload"
+      href="{{ '/fonts/Manrope[wght].ttf' }}"
+      as="font"
+      crossOrigin=""
+    />
     {%- if preloads -%}
      {% for preload in preloads %}
        <link rel="preload" as="{{ preload.as }}" type="{{ preload.type }}" href="{{ preload.href }}" {% if preload.crossorigin %}crossorigin{% endif %}>
@@ -12,8 +18,8 @@
   </head>
   <body>
     {% include "../components/navigation.njk" %}
-    <main class="p-12">
-      <h1 class="text-3xl mb-8">{{title}}</h1>
+    <main class="px-12 py-6">
+      <h1 class="text-3xl">{{title}}</h1>
       {{ content | safe }}
     </main>
     <script src="/assets/main.js"></script>

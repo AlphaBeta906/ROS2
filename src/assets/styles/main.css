@@ -29,6 +29,18 @@
     }
 }
 
+@font-face {
+    font-family: "Manrope";
+    src: url("/fonts/Manrope[wght].ttf") format("truetype");
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+}
+
+:root {
+    font-family: "Manrope";
+}
+
 p {
     margin: 1rem auto;
 }

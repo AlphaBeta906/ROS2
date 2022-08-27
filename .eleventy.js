@@ -3,8 +3,11 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
-  eleventyConfig.addWatchTarget('/src/img/');
-  eleventyConfig.addPassthroughCopy('src/img')
+  eleventyConfig.addPassthroughCopy('./src/assets/font');
+  eleventyConfig.addPassthroughCopy('./src/assets/img');
+
+  eleventyConfig.addPassthroughCopy("./src/assets/style/main.css");
+  eleventyConfig.addPassthroughCopy({ "./src/_fonts": "/fonts" });
 
   const {
     DateTime
