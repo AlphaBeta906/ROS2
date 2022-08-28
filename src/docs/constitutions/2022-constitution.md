@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Constitution of the Federal Republic of Solemania
 description: This is the first constitution of the Solemania. This is the foundation to all laws within Solemania
-date: 2022-07-01
+date: 2022-07-06
 ---
 
 ## Preamble
