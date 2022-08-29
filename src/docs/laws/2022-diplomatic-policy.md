@@ -46,7 +46,7 @@ date: 2022-08-27
 <ol class="numeral">
     <li>The Federal Republic of Solemani will decline formal diplomatic relations to exist if the nation-
         <ol class="alpha list-inside">
-            <li>supports the discrimination of any race, gender, sexual orientation, religious belief, ideology, disability, mental conditions, or any related characteristics;<li>
+            <li>supports the discrimination of any race, gender, sexual orientation, religious belief, ideology, disability, mental conditions, or any related characteristics;</li>
             <li>violates the Universal Declaration of Human Rights, as defined by the United Nations General Assembly;</li>
             <li>prohibits freedom of speech, press, thought, assembly, and/or expression;</li>
             <li>promotes and/or advocates for terrorism;</li>
