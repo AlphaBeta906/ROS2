@@ -57,6 +57,7 @@ date: 2022-08-27
             <li>claims any part of the Solemani archipelago;</li>
         </ol>
     </li>
+    <li>All relations will be decided by the head of state, head of government, and/or by popular vote</li>
 </ol>
 
 ### Article 5: On Neutrality
