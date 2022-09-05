@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Republic Act No. 0001
+title: Republic Act № 0001
 description: This act states the criteria that Solemania would give for diplomatic policy
 date: 2022-08-27
 ---
