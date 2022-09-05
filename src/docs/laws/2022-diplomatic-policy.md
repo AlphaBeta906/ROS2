@@ -18,7 +18,7 @@ date: 2022-08-27
 
 ### Article 1: Name
 <ol class="numeral">
-    <li>The official name of Republic Act No. 0001 may be cities as the Foreign Relations Act of 2022</li>
+    <li>The official name of Republic Act No. 0001 may be cited as the Foreign Relations Act of 2022</li>
 </ol>
 
 ### Article 2: Objectives
