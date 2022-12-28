@@ -8,7 +8,7 @@
     "serve:webpack": "tailwindcss -i src/assets/styles/main.css -o _site/assets/styles/main.css --watch --postcss",
     "serve:eleventy": "ELEVENTY_ENV=development eleventy --serve",
     "serve": "npm-run-all clean --parallel serve:*",
-    "build:webpack": "tailwindcss -i src/assets/styles/main.css -o _site/assets/styles/main.css --postcss",
+    "build:webpack": "tailwindcss -i src/assets/styles/main.css -o _site/assets/styles/main.css --postcss --minify",
     "build:eleventy": "ELEVENTY_ENV=production eleventy",
     "build": "NODE_ENV=production run-s clean build:*"
   },
@@ -16,12 +16,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.1",
-    "@11ty/eleventy-navigation": "^0.1.6",
+    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy-navigation": "^0.3.5",
     "autoprefixer": "^10.4.7",
     "npm-run-all": "^4.1.5",
     "postcss": "^8.4.14",
     "rimraf": "^3.0.2",
     "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "daisyui": "^2.42.1"
   }
 }

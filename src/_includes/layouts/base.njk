@@ -10,11 +10,6 @@
       as="font"
       crossOrigin=""
     />
-    {%- if preloads -%}
-     {% for preload in preloads %}
-       <link rel="preload" as="{{ preload.as }}" type="{{ preload.type }}" href="{{ preload.href }}" {% if preload.crossorigin %}crossorigin{% endif %}>
-     {%- endfor -%}
-    {%- endif -%}
   </head>
   <body>
     {% include "../components/navigation.njk" %}
