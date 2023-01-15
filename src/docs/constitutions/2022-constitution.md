@@ -1,14 +1,14 @@
 ---
 layout: layouts/post.njk
 title: Constitution of the Federal Republic of Solemania
-description: This is the first constitution of the Solemania. This is the foundation to all laws within Solemania
+description: This is the first constitution of the Solemania. This is the foundation to all laws within Solemania.
 date: 2022-07-06
 ---
 
 ## Preamble
 
 <p>
-<b>WE</b>, the peoples of Solemania,
+<b>WE</b>, the people of Solemania,
 
 <b>INSPIRED</b> by the different forms of patriotism alive in the history of Solemania, whom strives to fight for a free, and liberated Solemania;
 <blockquote>
@@ -25,7 +25,7 @@ by those who contributed the formation of the constitution, to the day that this
 by the many contributions, both big and small, that provided pride to the peoples of Solemania
 </blockquote>
 
-<b>RECONGNIZING</b> the diverse people whom inhabit the Solemani islands;
+<b>RECOGNIZING</b> the diverse people whom inhabit the Solemani islands;
 <blockquote>
 the indigenous peoples who's ancestors sailed across the oceans, to find land to settle upon, their ownership of the islands, their unique culture, religion, customs, traditions and language;<br><br>
 
@@ -133,7 +133,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 ### Article 8: Citizenship
 
 <ol class="numeral">
-    <li>All citizens of the Federal Republic of Solemania will be known as Solemanians (singular: Solemani)</li>
+    <li>All citizens of the Federal Republic of Solemania will be known as Solemani (singular: Solemani)</li>
     <li>Subject to the provisions of this Constitution, all Solemanians have equal status and
 identity, which means that they are equally-
         <ol class="alpha list-inside">
@@ -141,7 +141,7 @@ identity, which means that they are equally-
             <li>subject to the duties and responsibilities of citizenship.</li>
         </ol>
     </li>
-    <li>Citizenship of Solemania shall only be acquired by registration, however any person whom has been marked as a citizen before Jan 15th, 2023, will be marked as citizens automatically.</li>
+    <li>Citizenship of Solemania shall only be acquired by registration, however any person whom has been marked as a citizen before January 15th, 2023, will be marked as citizens automatically.</li>
     <li>Citizens of Solemania may hold multiple citizenship, which means that-
         <ol class="alpha list-inside">
             <li>upon accepting the citizenship of a foreign country, a person remains a citizen of Solemania unless he or she renounces that status;</li>
@@ -155,8 +155,7 @@ identity, which means that they are equally-
             <li>procedures relating to the making of applications for citizenship;</li>
             <li>conditions relating to the right to enter and reside in Solemania;</li>
             <li>provisions for the prevention of statelessness;</li>
-            <li>rules for the calculation of periods of a person's lawful presence in Solemania for
-the purpose of determining citizenship;</li>
+            <li>rules for the calculation of periods of a person's lawful presence in Solemania for the purpose of determining citizenship;</li>
             <li>provisions relating to the renunciation and deprivation of citizenship; and</li>
             <li>such other matters as are necessary to regulate the granting of citizenship.</li>
         </ol>
