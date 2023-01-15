@@ -131,3 +131,34 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 </ol>
 
 ### Article 8: Citizenship
+
+<ol class="numeral">
+    <li>All citizens of the Federal Republic of Solemania will be known as Solemanians (singular: Solemani)</li>
+    <li>Subject to the provisions of this Constitution, all Solemanians have equal status and
+identity, which means that they are equally-
+        <ol class="alpha list-inside">
+            <li>entitled to all the rights, privileges and benefits of citizenship; and</li>
+            <li>subject to the duties and responsibilities of citizenship.</li>
+        </ol>
+    </li>
+    <li>Citizenship of Solemania shall only be acquired by registration, however any person whom has been marked as a citizen before Jan 15th, 2023, will be marked as citizens automatically.</li>
+    <li>Citizens of Solemania may hold multiple citizenship, which means that-
+        <ol class="alpha list-inside">
+            <li>upon accepting the citizenship of a foreign country, a person remains a citizen of Solemania unless he or she renounces that status;</li>
+            <li>a former citizen of Solemania, who lost that citizenship upon acquiring foreign citizenship, may regain citizenship of Solemania, while retaining that foreign citizenship unless the laws of that foreign country provide otherwise; and</li>
+            <li>upon becoming a citizen of Solemania, a foreign person may retain his or her existing citizenship unless the laws of that foreign country provide otherwise.</li>
+        </ol>
+    </li>
+    <li>A written law shall prescribe-
+        <ol class="alpha list-inside">
+            <li>the conditions upon which citizenship of Solemania may be acquired and the conditions upon which a person may become a citizen of Solemania;</li>
+            <li>procedures relating to the making of applications for citizenship;</li>
+            <li>conditions relating to the right to enter and reside in Solemania;</li>
+            <li>provisions for the prevention of statelessness;</li>
+            <li>rules for the calculation of periods of a person's lawful presence in Solemania for
+the purpose of determining citizenship;</li>
+            <li>provisions relating to the renunciation and deprivation of citizenship; and</li>
+            <li>such other matters as are necessary to regulate the granting of citizenship.</li>
+        </ol>
+    </li>
+</ol>
