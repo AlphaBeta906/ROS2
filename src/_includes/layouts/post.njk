@@ -3,4 +3,13 @@ layout: layouts/base.njk
 ---
 
 <time><b>{{ date | readableDate }}</b></time>
-<article>{{ content | safe }}</article>
+<article>
+    {% if purpose %}
+        <div class="text-center my-5 w-auto">
+            <b>AN ACT</b><br>
+            {{ purpose }}
+        </div>
+    {% endif %}
+
+    {{ content | safe }}
+</article>
