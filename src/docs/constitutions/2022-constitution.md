@@ -99,14 +99,14 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     </li>
 </ol>
 
-### Article 5: Amendment of Constitution
+### Article 4: Amendment of Constitution
 <ol class="numeral">
     <li>Subject to this article, the provisions of this Constitution may be amended by a law enacted by the Legislature.</li>
     <li>In this article, "amendment" includes additions and repeals.</li>
     <li>A bill seeking to amend any provision in this constitution shall not be passed by parliament by the votes of not less than two-thirds of the total number of Members of Parliament.</li>
 </ol>
 
-### Article 6: Principles of Constitutional Interpretation
+### Article 5: Principles of Constitutional Interpretation
 
 <ol class="numeral">
     <li>Any entity interpreting this constitution, must promote the spirit, purpose, and object of this constitution as a whole, and the values that this constitution imposes.</li>
@@ -115,8 +115,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     <li>If there a difference in the provisions between the English and Solemanium translations, the English translation will be used.</li>
 </ol>
 
-### Article 7: Secularism
-
+### Article 6: Secularism
 <ol class="numeral">
     <li>Religious liberty, recognized in the Bill of Rights, is a founding principle of the state</li>
     <li>Religious belief is personal, such as any other beliefs.</li>
@@ -130,8 +129,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     </li>
 </ol>
 
-### Article 8: Citizenship
-
+### Article 7: Citizenship
 <ol class="numeral">
     <li>All citizens of the Federal Republic of Solemania will be known as Solemani (singular: Solemani)</li>
     <li>Subject to the provisions of this Constitution, all Solemanians have equal status and
