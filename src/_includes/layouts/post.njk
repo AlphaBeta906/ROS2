@@ -1,17 +1,33 @@
 ---
 layout: layouts/base.njk
 ---
-
-<div class="mb-5">
-    <time><b>{{ date | readableDate }}</b></time>
-</div>
 <article>
-    {% if purpose %}
-        <div class="text-center mb-5 w-auto">
-            <b>AN ACT</b><br>
-            {{ purpose }}
-        </div>
-    {% endif %}
+    <div class="my-5 w-auto">
+        <center>
+            <img src="/assets/img/coat_of_arms.png" class="w-auto h-40" /><br>
+        
+            <b>FEDERAL REPUBLIC OF SOLEMANIA</b><br>
+            <b>PARLIAMENT OF SOLEMANIA</b><br>
+            <b>PARUVIA, LEEYSAND TERRITORY</b><br><br>
+
+            {% if govbody %}
+            <b>{{ govbody }}</b><br><br>
+            {% endif %}
+
+            {% if not unfinished %}
+            <b>SIGNED ON: <time><b>{{ date | readableDate | upper }}</b></time></b>
+            {% else %}
+            <b>WORK IN PROGRESS</b>
+            {% endif %}
+            
+            {% if purpose %}
+                <br><br>[REPUBLIC ACT NO. <b>{{ rac }}</b>]<br><br>
+                
+                <b>AN ACT</b><br>
+                {{ purpose }}
+            {% endif %}
+        </center>
+    </div>
 
     {{ content | safe }}
 </article>

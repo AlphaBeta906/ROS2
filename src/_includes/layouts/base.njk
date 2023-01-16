@@ -13,8 +13,11 @@
   </head>
   <body>
     {% include "../components/navigation.njk" %}
-    <main class="px-12 py-6">
+    <div class="border-b border-red-500 p-5">
       <h1 class="text-3xl">{{title}}</h1>
+    </div>
+
+    <main class="px-12 py-6">
       {{ content | safe }}
     </main>
     <script src="/assets/main.js"></script>
