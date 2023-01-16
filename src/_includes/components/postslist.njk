@@ -7,7 +7,7 @@
             <a href="{{ post.url | url }}">{{ post.data.title }}</a>
           </strong>
           -
-          {% if not unfinished %}
+          {% if not post.data.unfinished %}
           <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
           {% else %}
           Work In Progress
@@ -27,7 +27,7 @@
           <a href="{{ post.url | url }}">{{ post.data.title }}</a>
         </strong>
         -
-        {% if not unfinished %}
+        {% if not post.data.unfinished %}
         <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
         {% else %}
         Work In Progress
