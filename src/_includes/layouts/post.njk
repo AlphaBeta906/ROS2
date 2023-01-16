@@ -2,10 +2,12 @@
 layout: layouts/base.njk
 ---
 
-<time><b>{{ date | readableDate }}</b></time>
+<div class="mb-5">
+    <time><b>{{ date | readableDate }}</b></time>
+</div>
 <article>
     {% if purpose %}
-        <div class="text-center my-5 w-auto">
+        <div class="text-center mb-5 w-auto">
             <b>AN ACT</b><br>
             {{ purpose }}
         </div>
