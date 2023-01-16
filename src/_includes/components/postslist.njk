@@ -10,7 +10,7 @@
           {% if not unfinished %}
           <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
           {% else %}
-          WORK IN PROGRESS
+          Work In Progress
           {% elseif %}
           -
           <span>{{ post.data.description }}</span>
@@ -30,7 +30,7 @@
         {% if not unfinished %}
         <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
         {% else %}
-        WORK IN PROGRESS
+        Work In Progress
         {% elseif %}
         -
         <span>{{ post.data.description }}</span>
