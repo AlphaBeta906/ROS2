@@ -11,7 +11,7 @@
           <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
           {% else %}
           Work In Progress
-          {% elseif %}
+          {% endif %}
           -
           <span>{{ post.data.description }}</span>
         </p>
@@ -31,7 +31,7 @@
         <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
         {% else %}
         Work In Progress
-        {% elseif %}
+        {% endif %}
         -
         <span>{{ post.data.description }}</span>
       </p>
