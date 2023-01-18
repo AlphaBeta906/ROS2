@@ -74,7 +74,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 <ol class="numeral">
     <li>The official name of the Solemani state is the Federal Republic of Solemania.</li>
     <li>The official languages are Solemanium and English.</li>
-    <li>The capital of the Federal Republic of Solemanium is Paruvia</li>
+    <li>The capital of the Federal Republic of Solemania is Paruvia</li>
     <li>The flag of the Federal Republic is the Sarture Bay Flag, a tricolor of red, white and blue.</li>
     <li>The national anthem is the war-hymn <i>The Battle on Sarture Bay</i>.</li>
     <li>The coat of arms is the shield of the lone hawk.</li>
@@ -85,7 +85,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 
 <ol class="numeral">
     <li>This constitution is the supreme law of the state</li>
-    <li>This constitution shall be upheld by all of the citizens of the Federal Republic of Solemanium, including those who serve public positions, and the obligations imposed by this constitution fulfilled.</li>
+    <li>This constitution shall be upheld by all of the citizens of the Federal Republic of Solemania, including those who serve public positions, and the obligations imposed by this constitution fulfilled.</li>
     <li>Subject to the provisions in the constitution, any law who violates it will be considered invalid due to inconsistency with the constitution.</li>
     <li>This constitution is enforced by the people's court to ensure that-
         <ol class="alpha list-inside">
@@ -115,8 +115,8 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 <ol class="numeral">
     <li>Any entity interpreting this constitution, must promote the spirit, purpose, and object of this constitution as a whole, and the values that this constitution imposes.</li>
     <li>If a law appears to be inconsistent with the constitution, the court must adopt a reasonable interpretation of the law with the provisions of this Constitution over an interpretation that is inconsistent with this Constitution.</li>
-    <li>The constitution is to be adopted in English, and translations made in Solemanium must be available at some point in the future.</li>
-    <li>If there a difference in the provisions between the English and Solemanium translations, the English translation will be used.</li>
+    <li>The constitution is to be adopted in English, and translations made in Solemania must be available at some point in the future.</li>
+    <li>If there a difference in the provisions between the English and Solemania translations, the English translation will be used.</li>
 </ol>
 
 ### Article 6: Secularism
