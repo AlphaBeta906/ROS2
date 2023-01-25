@@ -38,7 +38,7 @@
 }
 
 :root {
-    font-family: "Manrope";
+    font-family: "Manrope", system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 p {
@@ -62,11 +62,9 @@ ol li {
 ol.numeral > li:before {
     counter-increment: decimal;
     content:"("counter(decimal, decimal)")‌‌ ‌‌ ";
-    font-style: italic;
 }
 
 ol.alpha > li:before {
     counter-increment: lower-alpha;
     content:"("counter(lower-alpha, lower-alpha)")‌‌ ‌‌ ";
-    font-style: italic;
 }
