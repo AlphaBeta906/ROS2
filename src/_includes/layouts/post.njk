@@ -20,10 +20,14 @@ layout: layouts/base.njk
             <b>WORK IN PROGRESS</b>
             {% endif %}
             
-            {% if purpose %}
+            {% if purpose and act %}
                 <br><br>[REPUBLIC ACT NO. <b>{{ rac }}</b>]<br><br>
                 
                 <b>AN ACT</b><br>
+                {{ purpose }}
+            {% elif purpose and proc %}
+                <br><br>[PROCLAMATION NO. <b>{{ rac }}</b>, S. <b>{{ s }}</b>]<br><br>
+                
                 {{ purpose }}
             {% endif %}
         </center>

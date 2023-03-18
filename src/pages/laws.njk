@@ -1,0 +1,29 @@
+---
+title: Laws
+layout: layouts/base.njk
+permalink: /docs/laws/
+---
+On this page, you will see the laws for the Republic of Solemania.
+
+<h2>List of Laws</h2>
+
+{% set laws = collections.laws %}
+<ul class="list-disc">
+	{% for post in laws %}
+	<li>
+		<p>
+			<strong>
+				<a href="{{ post.url | url }}">{{ post.data.title }}</a>
+			</strong>
+			-
+			{% if not post.data.unfinished %}
+			<time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+			{% else %}
+			Work In Progress
+			{% endif %}
+			-
+			<span>{{ post.data.description }}</span>
+		</p>
+	</li>
+	{% endfor %}
+</ul>

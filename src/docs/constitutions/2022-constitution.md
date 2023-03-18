@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Constitution of the Federal Republic of Solemania
+title: 2022 Constitution of the Federal Republic of Solemania
 description: This is the first constitution of the Solemania. This is the foundation to all laws within Solemania.
 unfinished: true
 govbody: First Temporary Junta
@@ -11,7 +11,7 @@ govbody: First Temporary Junta
 ## Preamble
 
 <p>
-<b>WE</b>, the people of Solemania,
+<b><span class="text-3xl font-bold">W</span>E</b>, the people of Solemania,
 
 <b>INSPIRED</b> by the different forms of patriotism alive in the history of Solemania, whom strives to fight for a free, and liberated Solemania;
 <blockquote>
@@ -69,7 +69,6 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 </ol>
 
 ### Article 2: National Symbols
-
 <ol class="numeral">
     <li>The official name of the Solemani state is the Federal Republic of Solemania.</li>
     <li>The official languages are Solemanium and English.</li>
@@ -81,7 +80,6 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 </ol>
 
 ### Article 3: Supremacy of the Constitution
-
 <ol class="numeral">
     <li>This constitution is the supreme law of the state</li>
     <li>This constitution shall be upheld by all of the citizens of the Federal Republic of Solemania, including those who serve public positions, and the obligations imposed by this constitution fulfilled.</li>
@@ -110,7 +108,6 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 </ol>
 
 ### Article 5: Principles of Constitutional Interpretation
-
 <ol class="numeral">
     <li>Any entity interpreting this constitution, must promote the spirit, purpose, and object of this constitution as a whole, and the values that this constitution imposes.</li>
     <li>If a law appears to be inconsistent with the constitution, the court must adopt a reasonable interpretation of the law with the provisions of this Constitution over an interpretation that is inconsistent with this Constitution.</li>
@@ -159,6 +156,28 @@ identity, which means that they are equally-
             <li>rules for the calculation of periods of a person's lawful presence in Solemania for the purpose of determining citizenship;</li>
             <li>provisions relating to the renunciation and deprivation of citizenship; and</li>
             <li>such other matters as are necessary to regulate the granting of citizenship.</li>
+        </ol>
+    </li>
+</ol>
+
+## Chapter 2: Bill of Rights
+
+### Article 8: Application
+<ol class="numeral">
+    <li>This chapter binds the legislative, executive and judicial branches of government at all levels, and every person performing the functions of any public office.</li>
+    <li>The State and every person holding public office must respect, protect, promote and fulfil the rights and freedoms recognized in this Chapter.</li>
+    <li>A provision of this Chapter binds a natural or legal person, taking into account—
+        <ol class="alpha list-inside">
+            <li>the nature of the right or freedom recognised in that provision; and</li>
+            <li>the nature of any restraint or duty imposed by that provision.</li>
+        </ol>
+    </li>
+    <li>A legal person has the rights and freedoms recognised in this Chapter, to the extent required by the nature of the right or freedom, and the nature of the particular legal person.</li>
+    <li>The rights and freedoms set out in this Chapter apply according to their tenor and may be limited by-
+        <ol class="alpha list-inside">
+            <li>limitations expressly prescribed, authorised or permitted (whether by or under a written law) in relation to a particular right or freedom in this Chapter;</li>
+            <li>limitations prescribed or set out in, or authorised or permitted by, other provisions of this Constitution; or</li>
+            <li>limitations which are not expressly set out or authorised (whether by or under a written law) in relation to a particular right or freedom in this Chapter, but which are necessary and are prescribed by a law or provided under a law or authorised or permitted by a law or by actions taken under the authority of a law.</li>
         </ol>
     </li>
 </ol>

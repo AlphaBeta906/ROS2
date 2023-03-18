@@ -4,8 +4,67 @@ layout: layouts/base.njk
 permalink: /docs/
 eleventyNavigation:
   key: docs
-  order: 2
+  order: 3
 ---
-{% set constitutions = collections.constitutions %}
-{% set laws = collections.laws %}
-{% include "components/postslist.njk" %}
+<div class="my-8 space-x-4 flex w-[100%] gap-5">
+  <div class="border border-red-600 text-red-600 py-2 px-4 rounded-md transition-all duration-300 text-center w-[33%]"> 
+    <h2>Constitutions</h2>
+
+    {% set procs = collections.constitutions %}
+    <ul class="list-disc list-inside pb-96">
+      {% for post in procs %}
+      <li>
+        <p>
+          <strong>
+            <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+          </strong>
+        </p>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div href="/docs/laws/" class="border border-red-600 text-red-600 py-2 px-4 rounded-md transition-all duration-300 text-center w-[33%] flex flex-col">
+    <h2>Laws</h2>
+
+    {% set procs = collections.laws %}
+    <ul class="list-disc list-inside pb-96">
+      {% for post in procs %}
+      <li>
+        <p>
+          <strong>
+            <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+          </strong>
+        </p>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <div class="mt-auto mb-5">
+      <a href="/docs/laws/" class="border border-red-600 text-red-600 hover:bg-red-600 hover:text-white py-2 px-4 rounded-md transition-all duration-300 text-center">
+        See more
+      </a>
+    </div>
+  </div>
+  <div href="/docs/proclamations/" class="border border-red-600 text-red-600 p-2 px-4 rounded-md text-center w-[33%] flex flex-col">
+    <h2>Proclamations</h2>
+
+    {% set procs = collections.proclamations %}
+    <ul class="list-disc list-inside">
+      {% for post in procs %}
+      <li>
+        <p>
+          <strong>
+            <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+          </strong>
+        </p>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <div class="mt-auto mb-5">
+      <a href="/docs/proclamations/" class="border border-red-600 text-red-600 hover:bg-red-600 hover:text-white py-2 px-4 rounded-md transition-all duration-300 text-center">
+        See more
+      </a>
+    </div>
+  </a>
+</div>
