@@ -13,7 +13,7 @@ const: true
 <p>
 <b><span class="text-3xl font-bold">W</span>E</b>, the people of Solemania,
 
-<b>INSPIRED</b> by the different forms of patriotism alive in the history of Solemania, whom strives to fight for a free, and liberated Solemania;
+**INSPIRED** by the different forms of patriotism alive in the history of Solemania, whom strives to fight for a free, and liberated Solemania;
 <blockquote>
 by the indigenous communities among the Solemani archipelago whom resisted submission to the Daux;<br><br>
 
@@ -28,7 +28,7 @@ by those who contributed the formation of the constitution, to the day that this
 by the many contributions, both big and small, that provided pride to the peoples of Solemania
 </blockquote>
 
-<b>RECOGNIZING</b> the diverse people whom inhabit the Solemani islands;
+**RECOGNIZING** the diverse people whom inhabit the Solemani islands;
 <blockquote>
 the indigenous peoples who's ancestors sailed across the oceans, to find land to settle upon, their ownership of the islands, their unique culture, religion, customs, traditions and language;<br><br>
 
@@ -37,17 +37,17 @@ the descendants of the slaves that were shipped from Daux colonies during the co
 those who migrated to the Solemani islands for peace and/or safety, their culture, religions, customs, traditions and languages.
 </blockquote>
 
-<b>DETERMINED</b> to fulfil the legacy that our national heros fought for, the martyrs who fought the Daux for the ownership of the islands who were trying to occupy the princely states, the pirates who wanted to liberate Solemania and make it an egalitarian society, the warriors who fought in it's fight for freedom, and the countless other revolts that happened across the archipelago.
+**DETERMINED** to fulfil the legacy that our national heros fought for, the martyrs who fought the Daux for the ownership of the islands who were trying to occupy the princely states, the pirates who wanted to liberate Solemania and make it an egalitarian society, the warriors who fought in it's fight for freedom, and the countless other revolts that happened across the archipelago.
 
-<b>DECLARE</b> that all peoples within the islands that was once believed to be patronized by Xa'kusao, are equal and independent in all respects, as-well as united as one;
+**DECLARE** that all peoples within the islands that was once believed to be patronized by Xa'kusao, are equal and independent in all respects, as-well as united as one;
 
-<b>RECOGNIZE</b> that this constitution is the common law of the islands, and to provide a framework for future amendments;
+**RECOGNIZE** that this constitution is the common law of the islands, and to provide a framework for future amendments;
 
-<b>COMMITTED</b> to the recognition and protection of universal human rights, the protection of human dignity and freedom;
+**COMMITTED** to the recognition and protection of universal human rights, the protection of human dignity and freedom;
 
-<b>DECLARE</b> our will to make a society that are founded on the beliefs of egalitarianism, individualism, liberty, peace and progress.
+**DECLARE** our will to make a society that are founded on the beliefs of egalitarianism, individualism, liberty, peace and progress.
 
-<b>AND HEREBY ESTABLISH THIS CONSTITUTION FOR THE FEDERAL REPUBLIC OF SOLEMANIA, UNDER THE LEADERSHIP OF THE ETERNAL DICTATOR IN WHICH THIS NATION STANDS.</b>
+**AND HEREBY ESTABLISH THIS CONSTITUTION FOR THE FEDERAL REPUBLIC OF SOLEMANIA, UNDER THE LEADERSHIP OF THE ETERNAL DICTATOR IN WHICH THIS NATION STANDS.**
 </p>
 
 ## Chapter 1: The State
