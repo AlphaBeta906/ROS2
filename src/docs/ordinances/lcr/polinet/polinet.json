@@ -1,3 +1,6 @@
 {
-    "tags": "polinet"
+    "layout": "layouts/post.njk",
+    "tags": "polinet",
+    "ord": true,
+    "city": "POL"
 }
