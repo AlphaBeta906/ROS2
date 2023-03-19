@@ -4,20 +4,34 @@ layout: layouts/base.njk
 <article>
     <div class="my-5 w-auto">
         <center>
-            <img src="/assets/img/coat_of_arms.png" class="w-auto h-40" /><br>
+            {% if act or const or proc %}
+                <img src="/assets/img/coat_of_arms.png" class="w-auto h-40" /><br>
+            {% else %}
+                {% if city === "POL" %}
+                    <img src="/assets/img/Polinet_coat_of_arms.png" class="w-auto h-40" /><br>
+                {% endif %}
+            {% endif %}
         
-            <b>FEDERAL REPUBLIC OF SOLEMANIA</b><br>
-            <b>PARLIAMENT OF SOLEMANIA</b><br>
-            <b>PARUVIA, LEEYLAND TERRITORY</b><br><br>
+            {% if act or const or proc %}
+                <b>FEDERAL REPUBLIC OF SOLEMANIA</b><br>
+                <b>PARLIAMENT OF SOLEMANIA</b><br>
+                <b>PARUVIA, LEEYLAND TERRITORY</b><br><br>
+            {% else %}
+                {% if city === "POL" %}
+                    <b>MUNICIPAL GOVERNMENT OF POLINÉT</b><br>
+                    <b>CITY COUNCIL OF POLINÉT</b><br>
+                    <b>POLINÉT, LEEYLAND TERRITORY</b><br><br>
+                {% endif %}
+            {% endif %}
 
             {% if govbody %}
-            <b>{{ govbody }}</b><br><br>
+                <b>{{ govbody }}</b><br><br>
             {% endif %}
 
             {% if not unfinished %}
-            <b>SIGNED ON: <time><b>{{ date | readableDate | upper }}</b></time></b>
+                <b>SIGNED ON: <time><b>{{ date | readableDate | upper }}</b></time></b>
             {% else %}
-            <b>WORK IN PROGRESS</b>
+                <b>WORK IN PROGRESS</b>
             {% endif %}
             
             {% if purpose and act %}
@@ -28,6 +42,11 @@ layout: layouts/base.njk
             {% elif purpose and proc %}
                 <br><br>[PROCLAMATION NO. <b>{{ rac }}</b>, S. <b>{{ s }}</b>]<br><br>
                 
+                {{ purpose }}
+            {% elif purpose and ord %}
+                <br><br>[ORDINANCE NO. <b>{{ rac }}</b>, S. <b>{{ s }}</b>]<br><br>
+                
+                <b>AN ORDINANCE</b><br>
                 {{ purpose }}
             {% endif %}
         </center>

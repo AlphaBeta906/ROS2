@@ -4,12 +4,12 @@ title: 2022 Constitution of the Federal Republic of Solemania
 description: This is the first constitution of the Solemania. This is the foundation to all laws within Solemania.
 unfinished: true
 govbody: First Temporary Junta
+const: true
 ---
 
 <!-- 2022-07-06 -->
 
 ## Preamble
-
 <p>
 <b><span class="text-3xl font-bold">W</span>E</b>, the people of Solemania,
 
