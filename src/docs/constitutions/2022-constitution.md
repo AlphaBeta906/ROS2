@@ -73,7 +73,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     <li>The official name of the Solemani state is the Federal Republic of Solemania.</li>
     <li>The official languages are Solemanium and English.</li>
     <li>The capital of the Federal Republic of Solemania is Paruvia</li>
-    <li>The flag of the Federal Republic is the Sarture Bay Flag, a tricolor of red, white and blue.</li>
+    <li>The flag of the Federal Republic is the Sarture Bay Flag, a tricolor of blue, white and red.</li>
     <li>The national anthem is the war-hymn <i>The Battle on Sarture Bay</i>.</li>
     <li>The coat of arms is the shield of the lone hawk.</li>
     <li>The laws of the Federal Republic of Solemania define it's identities, how it is used, conserved.</li>
