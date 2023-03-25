@@ -13,15 +13,15 @@ const: true
 <p>
 <b><span class="text-3xl font-bold">W</span>E</b>, the people of Solemania,
 
-**INSPIRED** by the many forms of patriotism alive in the history of Solemania, whom strives to fight for a free, and liberated Solemania;
+**INSPIRED** by the many forms of patriotism alive in the history of Solemania, striving to fight for a free, and liberated Solemania;
 <blockquote>
-by the indigenous communities among the Solemani archipelago whom resisted submission to the Daux;<br><br>
+by the indigenous communities among the Solemani archipelago who resisted submission to the Daux;<br><br>
 
 by the slaves who resisted their masters;<br><br>
 
 by those who fought for the liberty of the Solemani islands;<br><br>
 
-by the various war heroes who defended Solemania, even in it's darkest hours;<br><br>
+by the various war heroes who defended Solemania, even in its darkest hours;<br><br>
 
 by those who contributed the formation of the constitution, to the day that this constitution was finalized; and<br><br>
 
@@ -31,6 +31,8 @@ by the many contributions, both big and small, that provided pride to the people
 **RECOGNIZING** the diverse people whom inhabit the Solemani islands;
 <blockquote>
 the indigenous peoples who's ancestors sailed across the oceans, to find land to settle upon, their ownership of the islands, their unique culture, religion, customs, traditions and language;<br><br>
+
+the Daux immigrants who's ancestors inhabited the newly colonized Solemania, their culture, religions, customs, traditions and languages;<br><br>
 
 the descendants of the slaves that were shipped from Daux colonies during the colonization period, their culture, religions, customs, traditions and languages; and<br><br>
 
