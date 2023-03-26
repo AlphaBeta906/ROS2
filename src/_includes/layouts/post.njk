@@ -33,6 +33,12 @@ layout: layouts/base.njk
             {% else %}
                 <b>WORK IN PROGRESS</b>
             {% endif %}
+
+            {% if ai %}
+                <br><br><b>AI CO-WRITTEN DOCUMENT</b><br>
+                <b>AI USED: {{ type }} at {{ usedwhen | readableDate }}</b><br>
+                <b>USED FOR: {{ used }}</b>
+            {% endif %}
             
             {% if purpose and act %}
                 <br><br>[REPUBLIC ACT NO. <b>{{ rac }}</b>]<br><br>
