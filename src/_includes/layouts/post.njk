@@ -30,6 +30,11 @@ layout: layouts/base.njk
 
             {% if not unfinished %}
                 <b>SIGNED ON: <time><b>{{ date | readableDate | upper }}</b></time></b>
+            {% elif cancelled %}
+                <b class="text-red-500">CANCELLED</b><br>
+                <b>REASON: {{ cancelled_reason }}</b><br><br>
+
+                <b>DOCUMENT PRESERVED AS IS ON {{ date | readableDate | upper }}</b>
             {% else %}
                 <b>WORK IN PROGRESS</b>
             {% endif %}
