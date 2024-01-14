@@ -22,11 +22,11 @@ layout: layouts/base.njk
     <ul class="list-disc list-inside pb-96">
       {% for post in procs %}
       <li>
-        <p>
+        <span>
           <strong>
             <a href="{{ post.url | url }}">{{ post.data.title }}</a>
           </strong>
-        </p>
+        </span>
       </li>
       {% endfor %}
     </ul>
@@ -38,11 +38,11 @@ layout: layouts/base.njk
     <ul class="list-disc list-inside pb-96">
       {% for post in procs %}
       <li>
-        <p>
+        <span>
           <strong>
             <a href="{{ post.url | url }}">{{ post.data.title }}</a>
           </strong>
-        </p>
+        </span>
       </li>
       {% endfor %}
     </ul>
@@ -60,11 +60,11 @@ layout: layouts/base.njk
     <ul class="list-disc list-inside">
       {% for post in procs %}
       <li>
-        <p>
+        <span>
           <strong>
             <a href="{{ post.url | url }}">{{ post.data.title }}</a>
           </strong>
-        </p>
+        </span>
       </li>
       {% endfor %}
     </ul>
