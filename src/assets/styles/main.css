@@ -48,12 +48,6 @@ p {
     margin: 1rem auto;
 }
 
-ol.numeral,
-ol.alpha {
-    list-style: none;
-    padding: 0;
-}
-
 ol.numeral {
     counter-reset: decimal;
 }
@@ -67,12 +61,6 @@ ol li {
     position: relative;
     padding: 3px;
     z-index: -1;
-}
-
-ol.numeral > li,
-ol.alpha > li {
-    display: inline-block;
-    margin-bottom: 3px;
 }
 
 ol.numeral > li:before {
