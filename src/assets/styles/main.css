@@ -27,7 +27,7 @@
     ol {
         @apply px-5
     }
-    b {
+    strong {
         @apply font-extrabold
     }
 }
@@ -36,7 +36,7 @@
     font-family: "Manrope";
     src: url("/assets/fonts/Manrope[wght].ttf") format("truetype");
     font-style: normal;
-    font-weight: 500;
+    font-weight: 500 800;
     font-display: fallback;
 }
 
@@ -46,6 +46,12 @@
 
 p {
     margin: 1rem auto;
+}
+
+ol.numeral,
+ol.alpha {
+    list-style: none;
+    padding: 0;
 }
 
 ol.numeral {
@@ -60,6 +66,13 @@ ol li {
     list-style: none;
     position: relative;
     padding: 3px;
+    z-index: -1;
+}
+
+ol.numeral > li,
+ol.alpha > li {
+    display: inline-block;
+    margin-bottom: 3px;
 }
 
 ol.numeral > li:before {

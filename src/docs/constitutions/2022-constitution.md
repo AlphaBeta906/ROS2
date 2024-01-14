@@ -54,8 +54,19 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 **AND HEREBY ESTABLISH THIS CONSTITUTION FOR THE FEDERAL REPUBLIC OF SOLEMANIA, UNDER THE LEADERSHIP OF THE ETERNAL DICTATOR IN WHICH THIS NATION STANDS.**
 </p>
 
-## Chapter 1: The State
-### Article 1: The Principles of Federal Republic
+## Chapter 1: Preliminary
+### Article 1: Name
+<ol class="numeral">
+    <li>The official name of this constitution may be cited as the 2022 Constitution of the Federal Republic of Solemania</li>
+</ol>
+
+## Chapter 2: The Federal Republic and Constitution
+### Article 2: Federal Republic of Solemania
+<ol class="numeral">
+    <li>Solemania shall be a federational and sovereign republic to be known officially as the Federal Republic of Solemania</li>
+</ol>
+
+### Article 3: The Principles of Federal Republic
 <ol class="numeral">
     <li>The Federal Republic of Solemania is a sovereign federal democratic state founded on the values of-
         <ol class="alpha list-inside">
@@ -72,9 +83,8 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     </li>
 </ol>
 
-### Article 2: National Symbols
+### Article 4: National Symbols
 <ol class="numeral">
-    <li>The official name of the Solemani state is the Federal Republic of Solemania.</li>
     <li>The official languages are Solemanium and English.</li>
     <li>The capital of the Federal Republic of Solemania is Paruvia</li>
     <li>The flag of the Federal Republic is the Sarture Bay Flag, a tricolor of blue, white and red.</li>
@@ -83,7 +93,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     <li>The laws of the Federal Republic of Solemania define its identities, how it is used, and conserved.</li>
 </ol>
 
-### Article 3: Supremacy of the Constitution
+### Article 5: Supremacy of the Constitution
 <ol class="numeral">
     <li>This constitution is the supreme law of the state.</li>
     <li>This constitution shall be upheld by all the citizens of the Federal Republic of Solemania, including those who serve public positions, and the obligations imposed by this constitution fulfilled.</li>
@@ -104,14 +114,14 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     </li>
 </ol>
 
-### Article 4: Amendment of Constitution
+### Article 6: Amendment of Constitution
 <ol class="numeral">
     <li>Subject to this article, the Legislature can pass a law to amend the articles of this Constitution.</li>
     <li>In this article, "amendment" includes additions and repeals.</li>
-    <li>A bill seeking to amend any provision in this constitution shall not be passed by parliament by the votes of not less than two-thirds of the total number of Members of Parliament.</li>
+    <li>A bill seeking to amend any provision in this constitution shall not be passed by parliament by the votes of not less than two-thirds of the total number of members of Parliament (excluding nominated members.)</li>
 </ol>
 
-### Article 5: Principles of Constitutional Interpretation
+### Article 7: Principles of Constitutional Interpretation
 <ol class="numeral">
     <li>Any entity interpreting this constitution must promote the spirit, purpose, and object of this constitution, and the values that this constitution imposes.</li>
     <li>If a law appears to be inconsistent with the constitution, the court must adopt a reasonable interpretation of the law with the provisions of this Constitution over an interpretation that is inconsistent with this Constitution.</li>
@@ -119,7 +129,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     <li>If there a difference in the provisions between the English and Solemanium translations, the English translation will be used.</li>
 </ol>
 
-### Article 6: Secularism
+### Article 8: Secularism
 <ol class="numeral">
     <li>Religious liberty, recognized in the Bill of Rights, is a founding principle of the state</li>
     <li>Religious belief is personal, such as any other beliefs.</li>
@@ -133,7 +143,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     </li>
 </ol>
 
-### Article 7: Citizenship
+### Article 9: Citizenship
 <ol class="numeral">
     <li>All citizens of the Federal Republic of Solemania will be known as Solemanis (singular: Solemani)</li>
     <li>Subject to the articles of this Constitution, all Solemani citizens have equal status and identity, meaning that they are equally-
@@ -163,9 +173,9 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     </li>
 </ol>
 
-## Chapter 2: Bill of Rights
+## Chapter 3: Bill of Rights
 
-### Article 8: Application
+### Article 10: Application
 <ol class="numeral">
     <li>This chapter binds the legislative, executive and judicial branches of government at all levels, and every person performing the functions of any public office.</li>
     <li>The State and every person holding public office must respect, protect, promote and fulfil the rights and freedoms recognized in this Chapter.</li>
@@ -185,7 +195,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     </li>
 </ol>
 
-### Article 9: Interpretation of the Chapter
+### Article 11: Interpretation of the Chapter
 <ol class="numeral">
     <li>In addition to complying with Article 5, when interpreting and applying this chapter, a court, tribunal, or other authority-
         <ol class="alpha list-inside">
@@ -194,14 +204,35 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
         </ol>
     </li>
     <li>This chapter does not deny, or prevent the recognition of any other right or freedom recognized or conferred by common or written law, except when it is inconsistent with the chapter.</li>
+    <li>A law that limits a right or freedom set out in this chapter is not invalid solely because the law exceeds the limits imposed by this chapter if the law is reasonably capable of a more restricted interpretation that doesn't exceed those limits, and in that case, a law must be constructed in accordance with a more restricted interpretation.</li>
+    <li>When deciding any matter according to common law, a court must apply, and where necessary, develop common law in a manner that respects the rights and freedoms recognized in this chapter.</li>
+    <li>In considering the application of this chapter to any particular law, a court must interpret this chapter contextually, having regard to the content and consequences of the law, including its impact upon individuals or groups of individuals.</li>
 </ol>
 
-### Article 10: Human Dignity
+### Article 12: Right to Life
+<ol class="numeral">
+    <li>Everyone has a right to life, and a person must not be arbitrarily deprived of it.</li>
+</ol>
+
+### Article 13: Human Dignity
 <ol class="numeral">
     <li>Human dignity is to be respected and protected.</li>
+    <li>Torture or any form of cruel, inhumane, or degrading treatment or punishment are prohibited.</li>
 </ol>
 
-### Article 11: Equality Before the Law
+### Article 14: Right to Personal Liberty
+<ol class="numeral">
+    <li>A person must not be deprived of personal liberty except-
+        <ol class="alpha list-inside">
+            <li>for the purpose of executing the sentence or order of a court, wether handed down in Solemania or elsewhere, in respect of a valid offense which the person has been convicted;</li>
+            <li>for the purpose of executing an order of a court punishing the person for the contempt of court or of another court or tribunal;</li>
+            <li>for the purpose of executing an order of a court made to secure the fulfillment of an obligation on the person by law;</li>
+            <li>for the purpose of bringing ;</li>
+        </ol>
+    </li>
+</ol>
+
+### Article 15: Equality Before the Law
 <ol class="numeral">
     <li>Every person is equal before the law.</li>
     <li>No person is to be discriminated against, by their origin, race, gender, age, language, social position, way of life, religion, ideological or political beliefs, or because of a physical, mental or psycological disability.</li>

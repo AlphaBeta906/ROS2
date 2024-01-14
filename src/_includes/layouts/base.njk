@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="scroll-smooth m-0 p-0">
 
 <head>
   <title>{{ title }}</title>
@@ -8,12 +8,19 @@
   <link rel="preload" href="{{ '/fonts/Manrope[wght].ttf' }}" as="font" crossOrigin="" />
 </head>
 
-<body>
-  <div>
-    {% include "../components/navigation.njk" %}
-    <div class="border-b border-red-500 p-5">
-      <h1 class="text-3xl">{{title}}</h1>
-    </div>
+<body class="min-h-screen">
+  <div class="sticky top-0">
+    <nav class="flex items-center justify-between flex-wrap px-5 py-3 border-b border-red-500 bg-slate-100 box-border bg-opacity-75 z-100 backdrop-blur-sm">
+      <a href="/" class="tracking-tight flex gap-2 items-center">
+        <img src="/assets/img/Solemanium.svg" width=50px class="rounded-md hover:shadow-lg transition-all ease-in-out" />
+        <div class="h-8 border-red-500 border"></div>
+        <h1 class="text-xl">{{title}}</h1>
+      </a>
+    
+      <div class="sm:hidden lg:block">
+        {% include "../components/navigation.njk" %}
+      </div>
+    </nav>    
   </div>
 
   <main class="px-12 py-6">
