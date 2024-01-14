@@ -64,10 +64,10 @@ ol li {
 
 ol.numeral > li:before {
     counter-increment: decimal;
-    content:"("counter(decimal, decimal)")‌‌ ‌‌ ";
+    content:"( "counter(decimal, decimal)" )‌‌ ‌‌ ";
 }
 
 ol.alpha > li:before {
     counter-increment: lower-alpha;
-    content:"( "counter(lower-alpha, lower-alpha)")‌‌ ‌‌ ";
+    content:"( "counter(lower-alpha, lower-alpha)" )‌‌ ‌‌ ";
 }

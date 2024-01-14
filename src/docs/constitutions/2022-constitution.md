@@ -41,6 +41,8 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 
 **DETERMINED** to fulfil the legacy that our national heros fought for, the martyrs who fought the Daux for the ownership of the islands who were trying to occupy the princely states, the pirates who wanted to liberate Solemania and make it an egalitarian society, the warriors who fought in its fight for freedom, and the countless other revolts that happened across the archipelago.
 
+**COMMITTED** to prevent a greater Solemani civil war between the three major divisions of Solemania: Sakuille, Turkém, and Mahapur, and the various minority and native groups against Solemania.
+
 **DECLARE** that all peoples within the islands that was once believed to be patronized by Xa'kusao, are equal and independent in all respects, as-well as united as one;
 
 **RECOGNIZE** that this constitution is the common law of the islands, and to provide a framework for future amendments;
@@ -58,14 +60,14 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     <li>The Federal Republic of Solemania is a sovereign federal democratic state founded on the values of-
         <ol class="alpha list-inside">
             <li>common unity between the islands of Solemania;</li>
-            <li>a respect for human rights, freedom and the rule of the law;</li>
-            <li>an independent, impartial, competent and accessible system of justice;</li> 
-            <li>equality and care for those who are less fortunate based on the values inherent in this section and in the Bill of Rights contained in Chapter 2;</li>
-            <li>human dignity, respect for the individual, personal integrity and responsibility, civic involvement and mutual support;</li>
-            <li>good governance, and the limitations and separation of power;</li>
+            <li>the preservation the unique and diverse culture of Solemania;</li>
+            <li>protecting the liberty and the rights of the people;</li>
+            <li>safeguarding the independence and sovereignty of the country;</li>
+            <li>ensuring the greatest possible lives for the people;</li>
+            <li>an independent, impartial, competent, and accesible system of government;</li>
             <li>transparency and accountability;</li>
-            <li>peace between Solemania and the world;</li>
-            <li>a prudent, efficient and sustainable relationship with nature.</li>
+            <li>peace between Solemania and the world; and</li>
+            <li>a sustanable and efficient relationship with nature.</li>
         </ol>
     </li>
 </ol>
@@ -83,7 +85,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 
 ### Article 3: Supremacy of the Constitution
 <ol class="numeral">
-    <li>This constitution is the supreme law of the state</li>
+    <li>This constitution is the supreme law of the state.</li>
     <li>This constitution shall be upheld by all the citizens of the Federal Republic of Solemania, including those who serve public positions, and the obligations imposed by this constitution fulfilled.</li>
     <li>Subject to the provisions in the constitution, any law who conflicts it will be deemed invalid, because of its inconsistency with the constitution.</li>
     <li>This constitution is enforced by the people's court to ensure that-
@@ -113,8 +115,8 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 <ol class="numeral">
     <li>Any entity interpreting this constitution must promote the spirit, purpose, and object of this constitution, and the values that this constitution imposes.</li>
     <li>If a law appears to be inconsistent with the constitution, the court must adopt a reasonable interpretation of the law with the provisions of this Constitution over an interpretation that is inconsistent with this Constitution.</li>
-    <li>The constitution is to be adopted in English, and translations made in Solemania must be available at some point in the future.</li>
-    <li>If there a difference in the provisions between the English and Solemania translations, the English translation will be used.</li>
+    <li>The constitution is to be adopted in English, and translations made in Solemanium must be available at some point in the future.</li>
+    <li>If there a difference in the provisions between the English and Solemanium translations, the English translation will be used.</li>
 </ol>
 
 ### Article 6: Secularism
@@ -133,7 +135,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 
 ### Article 7: Citizenship
 <ol class="numeral">
-    <li>All citizens of the Federal Republic of Solemania will be known as Solemani (singular: Solemani)</li>
+    <li>All citizens of the Federal Republic of Solemania will be known as Solemanis (singular: Solemani)</li>
     <li>Subject to the articles of this Constitution, all Solemani citizens have equal status and identity, meaning that they are equally-
         <ol class="alpha list-inside">
             <li>entitled to all the rights, privileges and benefits of citizenship; and</li>
@@ -181,4 +183,28 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
             <li>limitations which are not expressly set out or authorised (whether by or under a written law) in relation to a particular right or freedom in this Chapter, but which are necessary and are prescribed by a law or provided under a law or authorised or permitted by a law or by actions taken under the authority of a law.</li>
         </ol>
     </li>
+</ol>
+
+### Article 9: Interpretation of the Chapter
+<ol class="numeral">
+    <li>In addition to complying with Article 5, when interpreting and applying this chapter, a court, tribunal, or other authority-
+        <ol class="alpha list-inside">
+            <li>must promote the values that underlie a democratic society based on human dignity, equality and freedom; and</li>
+            <li>may, if relevant, consider international law, such as the Universal Declaration of Human Rights, which is applicable to the protection of the rights and freedoms in this chapter</li>
+        </ol>
+    </li>
+    <li>This chapter does not deny, or prevent the recognition of any other right or freedom recognized or conferred by common or written law, except when it is inconsistent with the chapter.</li>
+</ol>
+
+### Article 10: Human Dignity
+<ol class="numeral">
+    <li>Human dignity is to be respected and protected.</li>
+</ol>
+
+### Article 11: Equality Before the Law
+<ol class="numeral">
+    <li>Every person is equal before the law.</li>
+    <li>No person is to be discriminated against, by their origin, race, gender, age, language, social position, way of life, religion, ideological or political beliefs, or because of a physical, mental or psycological disability.</li>
+    <li>Men and women have equal rights, and the law must protect and ensure such equality, both legally and in practice, especially in the household, in education, and in the workplace. Men and women are to be paid the same for work of equal value.</li>
+    <li>The law shall provide for the elimination of inequalities that affect people with disabilities.</li>
 </ol>
