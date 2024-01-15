@@ -63,12 +63,12 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 ## Chapter 2: The Federal Republic and Constitution
 ### Article 2: Federal Republic of Solemania
 <ol class="numeral">
-    <li>Solemania shall be a federational and sovereign republic to be known officially as the Federal Republic of Solemania</li>
+    <li>Solemania shall be a sovereign federal republic to be known officially as the Federal Republic of Solemania</li>
 </ol>
 
 ### Article 3: The Principles of Federal Republic
 <ol class="numeral">
-    <li>The Federal Republic of Solemania is a sovereign federal democratic state founded on the values of-
+    <li>The Federal Republic is founded on the values of-
         <ol class="alpha list-inside">
             <li>common unity between the islands of Solemania;</li>
             <li>the preservation the unique and diverse culture of Solemania;</li>
