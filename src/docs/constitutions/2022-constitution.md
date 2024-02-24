@@ -181,16 +181,16 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     <li>The State and every person holding public office must respect, protect, promote and fulfil the rights and freedoms recognized in this Chapter.</li>
     <li>A provision of this Chapter binds a natural or legal person, taking into account—
         <ol class="alpha list-inside">
-            <li>the nature of the right or freedom recognised in that provision; and</li>
+            <li>the nature of the right or freedom recognized in that provision; and</li>
             <li>the nature of any restraint or duty imposed by that provision.</li>
         </ol>
     </li>
-    <li>A legal person has the rights and freedoms recognised in this Chapter, to the extent required by the nature of the right or freedom, and the nature of the particular legal person.</li>
+    <li>A legal person has the rights and freedoms recognized in this Chapter, to the extent required by the nature of the right or freedom, and the nature of the particular legal person.</li>
     <li>The rights and freedoms set out in this Chapter apply according to their tenor and may be limited by-
         <ol class="alpha list-inside">
-            <li>limitations expressly prescribed, authorised or permitted (whether by or under a written law) in relation to a particular right or freedom in this Chapter;</li>
-            <li>limitations prescribed or set out in, or authorised or permitted by, other provisions of this Constitution; or</li>
-            <li>limitations which are not expressly set out or authorised (whether by or under a written law) in relation to a particular right or freedom in this Chapter, but which are necessary and are prescribed by a law or provided under a law or authorised or permitted by a law or by actions taken under the authority of a law.</li>
+            <li>limitations expressly prescribed, authorized or permitted (whether by or under a written law) in relation to a particular right or freedom in this Chapter;</li>
+            <li>limitations prescribed or set out in, or authorized or permitted by, other provisions of this Constitution; or</li>
+            <li>limitations which are not expressly set out or authorized (whether by or under a written law) in relation to a particular right or freedom in this Chapter, but which are necessary and are prescribed by a law or provided under a law or authorized or permitted by a law or by actions taken under the authority of a law.</li>
         </ol>
     </li>
 </ol>
@@ -211,7 +211,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 
 ### Article 12: Right to Life
 <ol class="numeral">
-    <li>Everyone has a right to life, and a person must not be arbitrarily deprived of it.</li>
+    <li>Everyone has a right to life. The death penalty is prohibited.</li>
 </ol>
 
 ### Article 13: Human Dignity
@@ -227,7 +227,27 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
             <li>for the purpose of executing the sentence or order of a court, wether handed down in Solemania or elsewhere, in respect of a valid offense which the person has been convicted;</li>
             <li>for the purpose of executing an order of a court punishing the person for the contempt of court or of another court or tribunal;</li>
             <li>for the purpose of executing an order of a court made to secure the fulfillment of an obligation on the person by law;</li>
-            <li>for the purpose of bringing ;</li>
+            <li>for the purpose of bringing the person before a court in execution of an
+            order of a court;</li>
+            <li>if the person is reasonably suspected of having committed an offense;</li>
+            <li>with the consent of the person’s parent or lawful guardian or upon an order made by a court, for the purpose of the person’s education or welfare during any period ending not later than the date of his or her 18th birthday;</li>
+            <li>for the purpose of preventing the spread of an infectious or contagious disease;</li>
+            <li>for the purpose of the person’s care or treatment or for the protection of the community if he or she is, or is reasonably suspected to be, of unsound mind, addicted to drugs or alcohol, or a vagrant; or</li>
+            <li>for the purpose of preventing the unlawful entry of the person into Solemania or of effecting the expulsion, extradition or other lawful removal of the person from Solemania.</li>
+        </ol>
+    </li>
+    <li>Subsection ( 1 )<i>( c )</i> does not permit a court to make an order depriving a person of personal liberty on the ground of failure to pay maintenance, or a debt, fine or tax, unless the court considers that person has willfully refused despite having the means to do so.</li>
+    <li>If a person is detained pursuant to a measure authorized under a state of emergency-
+        <ol class="alpha list-inside">
+            <li>the person must, as soon as is reasonably practicable and in event within 7 days after the start of the detention, be given a statement in writing, in a language that the person understands, specifying the grounds of the detention;</li>
+            <li>the person must be given an opportunity to communicate, and to be visited by-
+                <ol class="roman list-inside">
+                    <li>his or her spouse, partner or next-of-kin;</li>
+                    <li>a legal practitioner;</li>
+                    <li>a religious counsellor or social worker; and</li>
+                    <li>a medical practitioner;</li>
+                </ol>
+            </li>
         </ol>
     </li>
 </ol>
@@ -235,7 +255,26 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
 ### Article 15: Equality Before the Law
 <ol class="numeral">
     <li>Every person is equal before the law.</li>
-    <li>No person is to be discriminated against, by their origin, race, gender, age, language, social position, way of life, religion, ideological or political beliefs, or because of a physical, mental or psycological disability.</li>
+    <li>No person is to be discriminated against, by their origin, race, gender, age, language, social position, way of life, religion, ideological or political beliefs, or because of a physical, mental or psychological disability.</li>
     <li>Men and women have equal rights, and the law must protect and ensure such equality, both legally and in practice, especially in the household, in education, and in the workplace. Men and women are to be paid the same for work of equal value.</li>
+    <li>Children shall be treated equally and as individuals and they shall be allowed to influence matters pertaining to themselves to a degree corresponding to the level of their development</li>
     <li>The law shall provide for the elimination of inequalities that affect people with disabilities.</li>
+</ol>
+
+### Article 16: Freedom from Slavery, Servitude, Forced Labor and Human Trafficking
+<ol class="numeral">
+    <li>A person must not be held in slavery of servitude, or subjected to forced labor or human trafficking.</li>
+    <li>In this section, "forced labor" does not include-
+        <ol class="list-inside alpha">
+            <li>labor required in consequence of a sentence or order of a court;</li>
+            <li>labor reasonably required of a person serving a term in imprisonment, wether or not required for the hygiene or maintenance of a prison; or</li>
+            <li>labor required of a member of a disciplined force for his or her duties.</li>
+        </ol>
+    </li>
+</ol>
+
+### Article 17: The Principle of Legality in Criminal Cases
+<ol class="numeral">
+    <li>No one shall be found guilty of a criminal offense or be sentence to a punishment in basis of a deed, which has not yet determined punishable by a written law under the time of its commission.</li>
+    <li>The penalty imposed for an offense shall not be more severe than that provided under law at the time of the commission of the offense.</li>
 </ol>

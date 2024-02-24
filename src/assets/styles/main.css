@@ -68,6 +68,10 @@ ol.alpha {
     counter-reset: lower-alpha;
 }
 
+ol.roman {
+    counter-reset: lower-roman;
+}
+
 ol li {
     list-style: none;
     position: relative;
@@ -83,4 +87,10 @@ ol.numeral > li:before {
 ol.alpha > li:before {
     counter-increment: lower-alpha;
     content:"( "counter(lower-alpha, lower-alpha)" )‌‌ ‌‌ ";
+    font-style: italic;
+}
+
+ol.roman > li:before {
+    counter-increment: lower-roman;
+    content:"( "counter(lower-roman, lower-roman)" )‌‌ ‌‌ ";
 }
