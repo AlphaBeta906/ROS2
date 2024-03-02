@@ -78,7 +78,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
             <li>an independent, impartial, competent, and accesible system of government;</li>
             <li>transparency and accountability;</li>
             <li>peace between Solemania and the world; and</li>
-            <li>a sustanable and efficient relationship with nature.</li>
+            <li>a sustainable and efficient relationship with nature.</li>
         </ol>
     </li>
 </ol>
@@ -209,18 +209,39 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     <li>In considering the application of this chapter to any particular law, a court must interpret this chapter contextually, having regard to the content and consequences of the law, including its impact upon individuals or groups of individuals.</li>
 </ol>
 
-### Article 12: Right to Life
+### Article 12: Freedom Under Law
+<ol class="numeral">
+    <li>Freedom based on law consists of the least restriction of activities on individuals consistent with the public welfare, the maintenance and development of the Federal Republic and Solemani society in accordance to this Constitution and its principles.</li>
+    <li>Everyone has the right to freedom based on law, and accordingly, subject to this constitution-
+        <ol class="alpha list-inside">
+            <li>everyone has the legal right to do anything that-
+                <ol class="roman list-inside">
+                    <li>does not injure others, or interfere with the rights and freedoms of others; and</li>
+                    <li>is not prohibited by law; and</li>
+                </ol>
+            </li>
+            <li>no-one may be-
+                <ol class="roman list-inside">
+                    <li>legally obliged to do anything which is not required by law; and</li>
+                    <li>prevented by law from doing anything which complies with the provisions of paragraph <i>( a )</i>.</li>
+                </ol>
+            </li>
+        </ol>
+    </li>
+</ol>
+
+### Article 13: Right to Life
 <ol class="numeral">
     <li>Everyone has a right to life. The death penalty is prohibited.</li>
 </ol>
 
-### Article 13: Human Dignity
+### Article 14: Human Dignity
 <ol class="numeral">
     <li>Human dignity is to be respected and protected.</li>
     <li>Torture or any form of cruel, inhumane, or degrading treatment or punishment are prohibited.</li>
 </ol>
 
-### Article 14: Right to Personal Liberty
+### Article 15: Right to Personal Liberty
 <ol class="numeral">
     <li>A person must not be deprived of personal liberty except-
         <ol class="alpha list-inside">
@@ -252,7 +273,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     </li>
 </ol>
 
-### Article 15: Equality Before the Law
+### Article 16: Equality Before the Law
 <ol class="numeral">
     <li>Every person is equal before the law.</li>
     <li>No person is to be discriminated against, by their origin, race, gender, age, language, social position, way of life, religion, ideological or political beliefs, or because of a physical, mental or psychological disability.</li>
@@ -261,7 +282,7 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     <li>The law shall provide for the elimination of inequalities that affect people with disabilities.</li>
 </ol>
 
-### Article 16: Freedom from Slavery, Servitude, Forced Labor and Human Trafficking
+### Article 17: Freedom from Slavery, Servitude, Forced Labor and Human Trafficking
 <ol class="numeral">
     <li>A person must not be held in slavery of servitude, or subjected to forced labor or human trafficking.</li>
     <li>In this section, "forced labor" does not include-
@@ -273,8 +294,25 @@ those who migrated to the Solemani islands for peace and/or safety, their cultur
     </li>
 </ol>
 
-### Article 17: The Principle of Legality in Criminal Cases
+### Article 18: Right to Privacy
+<ol class="numeral">
+    <li>Every person has the right to privacy in their private and family life, and in relation to their mail and telecommunications. More detailed provisions on the protection of personal data are laid down by an Act.</li>
+    <li>Every person has the right to be protected against the misuse of their personal data.</li>
+</ol>
+
+### Article 19: Freedom from Unreasonable Search and Seizure
+<ol class="numeral">
+    <li>Everyone has the right to be secure from unreasonable search of his or her person or property and against unreasonable seizure of his or her property.</li>
+    <li>Search and seizure are not permissable otherwise under the authority of the law.</li>
+</ol>
+
+### Article 20: The Principle of Legality in Criminal Cases
 <ol class="numeral">
     <li>No one shall be found guilty of a criminal offense or be sentence to a punishment in basis of a deed, which has not yet determined punishable by a written law under the time of its commission.</li>
     <li>The penalty imposed for an offense shall not be more severe than that provided under law at the time of the commission of the offense.</li>
+</ol>
+
+### Article 21: Rights of Arrested and Detained Persons
+<ol class="numeral">
+    <li></li>
 </ol>

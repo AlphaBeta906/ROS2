@@ -60,16 +60,16 @@ p {
     margin: 1rem auto;
 }
 
-ol.numeral {
-    counter-reset: decimal;
+ol.numeral li {
+    counter-increment: decimal;
 }
 
-ol.alpha {
-    counter-reset: lower-alpha;
+ol.alpha li {
+    counter-increment: lower-alpha;
 }
 
-ol.roman {
-    counter-reset: lower-roman;
+ol.roman li {
+    counter-increment: lower-roman;
 }
 
 ol li {
@@ -79,18 +79,19 @@ ol li {
     z-index: -1;
 }
 
-ol.numeral > li:before {
-    counter-increment: decimal;
+ol.numeral > li::marker {
     content:"( "counter(decimal, decimal)" )‌‌ ‌‌ ";
+    margin-right: 1ch;
 }
 
-ol.alpha > li:before {
-    counter-increment: lower-alpha;
+ol.alpha > li::marker {
     content:"( "counter(lower-alpha, lower-alpha)" )‌‌ ‌‌ ";
     font-style: italic;
+    margin-right: 1ch;
 }
 
-ol.roman > li:before {
+ol.roman > li::marker {
     counter-increment: lower-roman;
     content:"( "counter(lower-roman, lower-roman)" )‌‌ ‌‌ ";
+    margin-right: 1ch;
 }
